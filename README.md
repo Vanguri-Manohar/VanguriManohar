@@ -1,11 +1,11 @@
-# VanguriManohar
+
 <h1 align="center">Hi 👋, I'm Vanguri Manohar</h1>
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
 />
 
-<img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
+<img alt="Night Coding" src="https://media0.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e47kpv847pkvsxmo2rba309e359avj1qsbu8zw1dqcq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="1000px" height="300px" align="center"/>
 
 
 
@@ -16,19 +16,18 @@
  <a href="https://www.linkedin.com/in/vanguri-manohar-480375255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
 <a href="https://twitter.com/Manohar_Vanguri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Manohar" height="30" width="40" /></a>
  <a href="https://www.instagram.com/manohar__vanguri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Manohar" height="30" width="40" /></a>
- <a href="https://www.instagram.com/manohar__vanguri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Manohar" height="30" width="40" /></a>
-
-
-
- 
+ <a href="https://m.facebook.com/manohar.vanguri.50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Manohar" height="30" width="40" /></a> 
 </p>
 
 
 ## <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" width="30px"> Challenge me
-<a href="https://stackoverflow.com/users/2931510/el-hani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2931510/el-hani" height="30" width="40" /></a>
-<a href="https://leetcode.com/el-hani/" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/83facdeba5b924cb3b1a" alt="2931510/el-hani" height="40" width="40" /></a>
-<a href="https://cssbattle.dev/player/elhani" target="blank"><img align="center" src="https://cssbattle.dev/targets/100.png" alt="2931510/el-hani" height="40" width="40" /></a>
 
+<a href="https://leetcode.com/vangurissmanohar/" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/83facdeba5b924cb3b1a" alt="Manohar_Vanguri" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/manohar2326" target="blank"><img align="center" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Manohar_Vanguri" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" alt="Manohar_Vanguri" height="40" width="40" /></a>
+
+
+                                                                                                                                                                    
 <img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
