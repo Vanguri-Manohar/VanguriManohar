@@ -11,20 +11,20 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
-<p align="left">
+<h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect me </h1><br>
+<p align="center">
  <a href="https://www.linkedin.com/in/vanguri-manohar-480375255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
 <a href="https://twitter.com/Manohar_Vanguri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Manohar" height="30" width="40" /></a>
  <a href="https://www.instagram.com/manohar__vanguri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Manohar" height="30" width="40" /></a>
  <a href="https://m.facebook.com/manohar.vanguri.50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Manohar" height="30" width="40" /></a> 
-</p>
+</p><br>
 
+<h1 align="center"> <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" width="30px">Challenge me </h1><br>
 
-## <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" width="30px"> Challenge me
-
+<p align="center">
 <a href="https://leetcode.com/vangurissmanohar/" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/83facdeba5b924cb3b1a" alt="Manohar_Vanguri" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/manohar2326" target="blank"><img align="center" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Manohar_Vanguri" height="40" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" alt="Manohar_Vanguri" height="40" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" alt="Manohar_Vanguri" height="40" width="40" /></a></p>
 
 
                                                                                                                                                                     
