@@ -14,7 +14,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect me </h1><br>
 <p align="center">
  <a href="https://www.linkedin.com/in/vanguri-manohar-480375255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
-<a href="https://twitter.com/Manohar_Vanguri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Manohar" height="30" width="40" /></a>
+<a href="https://twitter.com/Manohar_Vanguri" target="blank"><img align="center" src="https://user-images.githubusercontent.com/9910706/255611353-3fca5769-15d9-4317-ad88-e07cfdc747c6.jpg" alt="Manohar" height="30" width="40" /></a>
  <a href="https://www.instagram.com/manohar__vanguri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Manohar" height="30" width="40" /></a>
  <a href="https://m.facebook.com/manohar.vanguri.50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Manohar" height="30" width="40" /></a> 
 </p><br>
