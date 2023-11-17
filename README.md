@@ -28,10 +28,9 @@
 
 
                                                                                                                                                                     
-<img alt="Night Coding" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300px" height="300px" align="right"/>
 
-## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks
-
+<h1 align="center"><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks</h1>
+<p align="center">
 <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://www.typescriptlang.org/"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-14354C.svg?logo=typescript&logoColor=white&color=blue"></a>
@@ -43,9 +42,9 @@
 <a href="https://docs.djangoproject.com/">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
 </a>
+</p>
 
-
-
+<p align="center">
 <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-14354C.svg?logo=laravel&logoColor=black&color=orangered"></a>
 <a href="https://vuejs.org/"><img alt="Vue" src="https://img.shields.io/badge/Vue-14354C.svg?logo=vue.js&logoColor=black&color=purbleblue"></a>
 <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-14354C.svg?logo=node.js&logoColor=black&color=darkgreen"></a>
@@ -53,17 +52,13 @@
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
 <a href="https://flask.palletsprojects.com/en/2.1.x/"><img alt="Flask" src="https://img.shields.io/badge/Flask-14354C.svg?logo=flask&logoColor=black&color=white"></a>
 <a href="https://www.tensorflow.org/">
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
 <a href="https://www.oracle.com/java/">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-</a>
-
+<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+</p>
  
 
-
-
-
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools
+<h1 align="center"> <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Software & Tools </h1>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
