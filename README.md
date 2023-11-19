@@ -31,12 +31,12 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages & Frameworks</h1><br>
 <p align="center">
+<a href="https://www.cplusplus.com/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue&color=yellow"></a>
 <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-14354C.svg?logo=php&logoColor=white&color=mediumpurple"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img alt="HTML" src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange"></a>
 <a href="https://www.cplusplus.com/"><img alt="c++" src="https://img.shields.io/badge/C/C++-14354C.svg?logo=c&logoColor=white&color=blue"></a>
-<a href="https://www.cplusplus.com/"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue&color=yellow"></a>
 <a href="https://docs.djangoproject.com/">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
 </a>
