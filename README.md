@@ -67,11 +67,17 @@
 <a href="https://atom.io/"><img alt="Atom" src="https://img.shields.io/badge/Atom-66595C.svg?logo=atom&logoColor=white"></a>
 <a href="https://jupyter.org/"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
 </p>
-
+<!--
 <p align="center">
   <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Vanguri-Manohar&show_icons=true&theme=dark&locale=en" alt="Manohar git hub stats" align=center/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanguri-Manohar&show_icons=true&theme=dark&locale=en&layout=compact" alt="Manohar top languages" align=center/>
+</p>-->
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Manohar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Vanguri-Manohar&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Manohar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanguri-Manohar&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
 </p>
 
 -------
