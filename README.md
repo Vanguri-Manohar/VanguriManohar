@@ -70,13 +70,13 @@
 
 <p align="center">
   <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Vanguri-Manohar&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanguri-Manohar&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vanguri-Manohar&show_icons=true&theme=dark&locale=en" alt="Manohar git hub stats" align=center/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vanguri-Manohar&show_icons=true&theme=dark&locale=en&layout=compact" alt="Manohar top languages" align=center/>
 </p>
 
 -------
 <details>
-<summary>Preview  </summary>
+<summary>Preview</summary>
 
 [Vanguri-Manohar](https://github.com/Vanguri-Manohar 'Vanguri-Manohar')
 
