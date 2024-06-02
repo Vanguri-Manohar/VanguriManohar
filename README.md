@@ -22,7 +22,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" width="30px">Challenge me </h1><br>
 
 <p align="center">
-<a href="https://leetcode.com/vangurissmanohar/" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/83facdeba5b924cb3b1a" alt="Manohar_Vanguri" height="40" width="40" /></a>
+<a href="https://leetcode.com/vangurissmanohar/" target="_blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/83facdeba5b924cb3b1a" alt="Manohar_Vanguri" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/manohar2326" target="blank"><img align="center" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Manohar_Vanguri" height="40" width="40" /></a>
 <a href="https://app.codesignal.com/profile/manohar_v_r9r" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/12802966?s=200&v=4" alt="Manohar_Vanguri" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/vangurissmanohar" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="Manohar_Vanguri" height="40" width="40" /></a>
